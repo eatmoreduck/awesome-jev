@@ -1,0 +1,11 @@
+{
+  "name": "Jev Chat Assistant Keyboard for iOS",
+  "repository": "jev-chat/jev-chat-jarvis-ios",
+  "description": "iOS custom-keyboard chat copilot: copy a message in any chat app, tap Analyze on the Jev keyboard, and it calls TypeSafe Jev (systemone) for an 8-way intent Choice and a 0-9 risk Score, drafts two replies per tone (12 built-in tones) via OpenAI/Anthropic-compatible endpoints, re-ranks them with Jev, and inserts the pick into the input box — never sends.",
+  "category": "applications",
+  "evidence": [
+    "Shared/JevJudge.swift",
+    "Shared/JevPipeline.swift",
+    "Shared/JevHTTP.swift"
+  ]
+}
